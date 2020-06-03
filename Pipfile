@@ -10,6 +10,9 @@ requests = "*"
 pandas = "*"
 seaborn = "*"
 scikit-learn = "*"
+spacy = "*"
+collocater = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.8"
