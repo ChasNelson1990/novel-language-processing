@@ -13,6 +13,7 @@ scikit-learn = "*"
 spacy = "*"
 collocater = "*"
 nltk = "*"
+spacy-readability = "*"
 
 [requires]
 python_version = "3.8"
