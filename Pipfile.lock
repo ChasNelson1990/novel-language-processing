@@ -75,11 +75,11 @@
         },
         "collocater": {
             "hashes": [
-                "sha256:4b1d7883d7c601e283076785f7d86331e7b14ebf1fea1b1e9d1096ba2261ca1e",
-                "sha256:5720c951dc6162e5f4b22c60f379ea09e4bb3f0539a851b8606f11d7f54eccf9"
+                "sha256:155a53cff5b0d371968d3a0b9df13bdbd4823398578a9721c08ae8f145134a0d",
+                "sha256:a81b2f772b17995625abc14e21bf716ab184236cce461fbb94d89f7469ba0ac8"
             ],
             "index": "pypi",
-            "version": "==0.2"
+            "version": "==0.3"
         },
         "cycler": {
             "hashes": [
